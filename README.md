@@ -1,1 +1,1 @@
-# Projects
+멋쟁이사자처럼 ai school수업 당시 실시했던 프로젝트들
